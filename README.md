@@ -1,4 +1,4 @@
-# AutoEncoders
+
 # Autoencoders
 
 ## Overview
